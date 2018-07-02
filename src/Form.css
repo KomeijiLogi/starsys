@@ -1,0 +1,31 @@
+@import "~antd/dist/antd.css";
+
+#components-form-demo-validate-other .dropbox {
+    height: 180px;
+    line-height: 1.5;
+}
+
+.form-echo{
+    margin: 5vw;
+    padding: 5vw;
+}
+
+.button{
+    width: 80vw !important;
+}
+.hidden{
+    display: none;
+}
+.group-radio{
+    text-align: left;
+}
+.human-radio{
+    text-align: left;
+}
+.human-radio label{
+    width: 25%;
+}
+.ant-form-item-control{
+    text-align: left;
+    padding-left: 5vw;
+}
